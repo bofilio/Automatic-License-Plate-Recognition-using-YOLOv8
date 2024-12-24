@@ -161,6 +161,7 @@ cython_debug/
 
 anpr_test/
 sample.mp4
+sample*
 sort/
 test_interpolated.csv
 test.csv
